@@ -128,7 +128,7 @@ Data visualization for the dataset was done using Microsoft Power BI Desktop:
 
 7.Power BI
 
-8.Anaconda Envirement
+8.Anaconda Environment
 
 ## References
 
